@@ -7,24 +7,24 @@ from .. import Riz, Riz2, Riz3, Riz4, Riz5, Riz6, Riz7, Riz8, Riz9, Riz10, ALIVE
 from RiZoeLXSpam.plugins.help import *
 
 
-RIZ_IMG = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/ba87c58f01a6fcb5ef512.jpg"
+RIZ_IMG = ALIVE_PIC if ALIVE_PIC else "https://te.legra.ph/file/c7ba37c1471bbd7ea17d2.jpg"
 
 Riz_Button = [
         [
-        Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/DNHxHELL")
+        Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/ABOUT_AMANXD")
         ],
         [
-        Button.inline("• ᴄᴍᴅs •", data="help_back")
+        Button.inline("• ᴄᴍᴅs •", data="A_4_AMAN_OFFICCIAL")
         ]
         ]
                
 RizX_Button = [
         [
-        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/RiZoeLX"),
-        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/DNHxHELL")
+        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/ABOUT_AMANXD"),
+        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/A_4_AMAN_Officcial")
         ],
         [
-        Button.url("• ʀᴇᴘᴏ •", "https://github.com/MrRizoel/SpamBot")
+        Button.url("• ʀᴇᴘᴏ •", "https://github.com/Amanyadav23/SpamBot")
         ]
         ]
         
